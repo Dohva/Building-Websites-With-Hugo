@@ -1,9 +1,9 @@
 ---
-title: "{{ replace .Name "-" " " | title }}"
-date: {{ .Date }}
+title: "Second Post"
+date: 2023-04-28T06:24:35+02:00
 author: David Dyrehave
-year: "{{ dateFormat "2006" .Date }}"
-month: "{{ dateFormat "2006/01" .Date }}"
+year: "2023"
+month: "2023/04"
 categories:
 - Personal
 - Thoughts

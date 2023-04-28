@@ -2,6 +2,8 @@
 title: "First Post"
 date: 2023-04-26T19:25:03+02:00
 author: David Dyrehave
+year: "2023"
+month: "2023/4"
 categories:
   - Personal
   - Thoughts
